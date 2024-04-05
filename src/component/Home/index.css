@@ -1,0 +1,59 @@
+.main-bg-booking-page-bg {
+    background-image: url('https://d1cj8q6w07zyiq.cloudfront.net/mytransfers/images/mytransfers-top.jpg');
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 50px;
+    padding-left: 70px;
+}
+
+.nav-bar-links-main-bg {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.inputs-upper-container {
+    position: relative;
+}
+  
+
+.add-button-ppls-calculate {
+    background-color: #fff;
+    height: auto;
+    width: 150px;
+    max-width: 150px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.search-button-ppls-calculate {
+    background-color: #28a745;
+    height: auto;
+    width: 150px;
+    min-width: 150px;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+  }
+
+.button-submit {
+    border: 0px;
+    background-color: transparent;
+    color: black;
+    cursor: pointer;
+
+}
+
+  .input-container-time {
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 50px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+  }
+
